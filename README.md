@@ -102,4 +102,4 @@ SSLCommerz Payment gateway is used for this transaction system.
     <img width="400" height="700" src="https://github.com/habib-777/AgriFarm/blob/main/Screenshots/Payment.png" alt="Payment Gateway">
 </p>
 
-<sub>"AgriFarm" is built by [Md. Habibur Rahman](https://github.com/habib-777)</sub>
+<sub>"AgriFarm" is built by [Md. Habibur Rahman](https://github.com/habib-777) and [Syed Mohd. Farhan](https://github.com/FarhanSyed23)</sub>
