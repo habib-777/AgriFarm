@@ -4,17 +4,6 @@
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
 
-<IfModule mod_rewrite.c>
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^(www.)?github.com$
-RewriteCond %{REQUEST_URI} !^/https://github.com/habib-777/AgriFarm/
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /https://github.com/habib-777/AgriFarm/$1
-RewriteCond %{HTTP_HOST} ^(www.)?github.com$
-RewriteRule ^(/)?$ https://github.com/habib-777/AgriFarm/index.php [L] 
-</IfModule>
-
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
